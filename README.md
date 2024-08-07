@@ -1,2 +1,1 @@
-# OSS_LAB
-OSS LAB ASSIGNMENTS
+# CollegeWork
